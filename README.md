@@ -10,7 +10,6 @@
 - [Database Setup](#database-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -114,15 +113,9 @@ We welcome contributions from the community! To contribute:
 
 5. **Create a Pull Request**: Submit your changes for review.
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or issues, please contact us at:
 
-- Email: [support@deentalks.com](mailto:support@deentalks.com)
-- GitHub: [Issues](https://github.com/yourusername/DeenTalks/issues)
+- Email: [islamhamdaoui2000@gmail.com](mailto:islamhamdaoui2000@gmail.com)
+
