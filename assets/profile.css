@@ -1,0 +1,210 @@
+.posts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.post {
+  display: flex;
+  margin-bottom: 10px;
+  background-color: white;
+  border-radius: 8px;
+  padding: 10px;
+  width: 96%;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+ 
+}
+
+.post button {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.edit {
+  background-color: #1877f2;
+  color: #fff;
+}
+.delete {
+  background-color: #ccc;
+  color: #333;
+}
+
+.edit-profile {
+  background-color: #1877f2;
+  color: #fff;
+  border: none;
+  border-radius: 100px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin: 15px 0px;
+}
+
+.edit-profile:hover {
+  background-color: #0e5aa7;
+}
+
+.pdpImg {
+  height: 120px;
+  width: 120px;
+  object-fit: cover;
+
+  margin-bottom: 10px;
+}
+
+.post_delete {
+  background-color: red;
+  display: flex;
+  /* margin-bottom: 10px; */
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  width: 100%;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.deleteForm {
+  margin: auto;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.deletePost {
+ 
+  border: none;
+  margin-bottom: 5px;
+  border-radius: 50px;
+  width: 200px;
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.cancelDelete {
+  background-color: #ccc;
+  color: #333;
+
+  border: none;
+  margin-bottom: 5px;
+  border-radius: 50px;
+  width: 100%;
+  width: 200px;
+}
+
+.post_user_info {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+.post_img {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  margin-right: 8px;
+}
+
+.post_img img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.post_create_form {
+  margin: auto;
+  padding: 10px;
+}
+.post_create {
+  margin-bottom: 10px;
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px 10px;
+  width: 100%;
+
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.post_create textarea {
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 15px 10px;
+  outline: none;
+  background-color: #f0f2f5;
+  border: none;
+  box-sizing: border-box;
+  resize: none;
+  width: 100%;
+}
+
+.post_create_btn {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 5px;
+}
+
+.post_create_btn button {
+  background-color: #1877f2;
+  color: #fff;
+  border: none;
+  border-radius: 100px;
+  padding: 10px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+
+.post_edit {
+  margin: auto;
+  padding:10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.post_edit textarea {
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 15px 10px;
+  outline: none;
+  background-color: white5;
+  border: none;
+  box-sizing: border-box;
+  resize: none;
+  width: 100%;
+}
+
+.edit_save {
+  background-color: #1877f2;
+  color: white;
+  border: none;
+  margin-bottom: 5px;
+  border-radius: 50px;
+  width: 200px;
+
+}
+
+.edit_cancel{
+  background-color: #ccc;
+  color: #333;
+
+  border: none;
+  margin-bottom: 5px;
+  border-radius: 50px;
+  width: 100%;
+  width: 200px;
+}
+
+  hr {
+    border: 0;
+    height: 1px;
+    background-color: #ccc; 
+    margin: 10px 0;
+  }
+
+
