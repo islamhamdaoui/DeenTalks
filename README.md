@@ -1,5 +1,11 @@
+<div align="center">
+    <a href="https://deentalks.wuaze.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Demo-Link-brightgreen" alt="Demo Link">
+    </a>
+</div>
 
    ![20240524_222621](https://github.com/islamhamdaoui/DeenTalks/assets/91889739/279fde7b-38b3-439f-954e-6e56165176e9)
+   
 <h1>DeenTalks</h1>
     <p>DeenTalks is a community-driven platform dedicated to discussing the teachings of Islam, correcting misconceptions, and fostering meaningful conversations about the religion. Our goal is to create a respectful and educational environment where users can learn, share, and grow in their understanding of Islam.</p>
     
