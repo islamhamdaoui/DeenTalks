@@ -62,7 +62,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`, `date`, `image`) VALUES
-(13, 'islamputh', 'islamhamdaoui2000@gmail.com', 'islam123', '2024-04-20 13:59:33', NULL);
+(13, 'islamhamdaoui', 'islamhamdaoui2000@gmail.com', 'islam123', '2024-04-20 13:59:33', NULL);
 
 --
 -- Indexes for dumped tables
